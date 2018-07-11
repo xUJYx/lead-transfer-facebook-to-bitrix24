@@ -1,0 +1,19 @@
+{
+  "name": "ujy/lead-transfer-facebook-to-bitrix24",
+  "description": "Little lib for transfer Facebook Leads to Bitrix24 CRM",
+  "keywords": ["Bitrix24", "PHP", "Facebook", "Lead"],
+  "type": "library",
+  "homepage": "https://github.com/xUJYx/lead-transfer-facebook-to-bitrix24",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ievgenii Gardysh",
+      "email": "ujy@ukr.net",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "facebook/graph-sdk": "^5.6",
+    "facebook/php-ads-sdk": "2.11.*"
+  }
+}
